@@ -1,0 +1,762 @@
+9/22
+
+Hi Cameron,<br><br>Here are the newest jobs posted in the past 24 hours tha=
+t other job seekers (except you) will miss. Jobs with salary ranges are sho=
+wn first<br><br>
+
+1) <b><a href=3D"https://boards.greenhouse.io/circle/jobs/7=
+639108002"}">Director, Data Engineering</a></b> (Salt Lake City - remote fi=
+rst in US), Circle - <i> $227k to $292k</i><br><i>10 years of experience. <=
+/i><i> Knowledge of a scientific computing language (Python) and Expert at =
+SQL.  Experience with common software development flows and tools (Linux, g=
+it, AW...</i><br><br>
+
+2) <b><a href=3D"https://boards.greenhouse.io/circlere=
+ferrals/jobs/7639114002"}">Director, Data Engineering</a></b> (US Remote), =
+Circle - Referrals - <i> $227k to $292k</i><br><i>10 years of experience. <=
+/i><i> Knowledge of a scientific computing language (Python) and Expert at =
+SQL.  Experience with common software development flows and tools (Linux, g=
+it, AW...</i><br><br>
+
+3) <b><a href=3D"https://lattice.com/job?gh_jid=3D7483=
+809002"}">Senior Director of Engineering</a></b> (SF, NYC, Remote), Lattice=
+ - <i> $226k to $354k</i><br><i>5 years of experience. </i><i> Experience o=
+verseeing the technical decision-making process across multiple teams.  Exp=
+erience with the technologies with which we work (Node.  Exper...</i><br><b=
+r>
+
+4) <b><a href=3D"https://www.datavant.com/about/careers/salaried-roles?gh=
+_jid=3D7617007002"}">Director, Provider Connections</a></b> (Remote, United=
+ States), Datavant - <i> $220k to $280k</i><br><i> Experience in data acces=
+s or data connectivity in healthcare or similarly regulated industries.  Ab=
+ility to interface effectively across different or...</i><br><br>5) <b><a h=
+ref=3D"https://csl.wd1.myworkdayjobs.com/en-EN/CSL_External/job/Americas-US=
+-Remote-CSL-Behring/Director--Gen-AI-Core-Platform-Owner_R-236709-1"}">Dire=
+ctor, Gen AI Core Platform Owner</a></b> (Americas, US, Remote, CSL Behring=
+, EMEA, UK, Remote, CSL Behring; EMEA, CH, Remote, CSL Behring), Csl Limite=
+d - <i> $190k to $260k</i><br><i>10 years of experience. </i><i> Experience=
+ with AI/ML: Develop and implement AI/ML models and algorithms using advanc=
+ed principles, architectures, and frameworks.  Utilize proficien...</i><br>=
+<br>6) <b><a href=3D"https://zillow.wd5.myworkdayjobs.com/Zillow_Group_Exte=
+rnal/job/Remote-WA/Principal-Software-Development-Engineer---AI-Platform_P7=
+45426"}">Principal Software Development Engineer - AI Platform</a></b> (Rem=
+ote-WA), Zillow - <i> $186k to $297k</i><br><i>5 years of experience. </i><=
+i> Experience with Machine Learning, data and/or backend web services & inf=
+rastructure.  Experience working with cloud services (AWS/Azure/GCP).  Expe=
+ri...</i><br><br>7) <b><a href=3D"https://nvidia.wd5.myworkdayjobs.com/NVID=
+IAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Platform-Software-E=
+ngineer_JR1970540"}">Senior Cloud Platform Software Engineer</a></b> (US, C=
+A, Santa Clara, US, Remote), Nvidia - <i> $180k to $419k</i><br><i>7 years =
+of experience. </i><i> Experience building and shipping services on Kuberne=
+tes.  Experience in a relevant language, e.  Experience with a wide range o=
+f modern infrastructur...</i><br><br>8) <b><a href=3D"https://job-boards.gr=
+eenhouse.io/nabis/jobs/5334897004"}">Principal Software Engineer - Front En=
+d</a></b> (Remote), Nabis - <i> $180k to $200k</i><br><i>12 years of experi=
+ence. </i><i> Experience with at least 2 years of experience as a Principal=
+ Software Engineer or in a similar senior engineering role, with a strong f=
+ocus on front...</i><br><br>9) <b><a href=3D"https://boards.greenhouse.io/a=
+nomalojobs/jobs/4406044005?gh_jid=3D4406044005"}">Staff Software Engineer -=
+ Core Systems</a></b> (Remote), Anomalo - <i> $180k to $220k</i><br><i>10 y=
+ears of experience. </i><i> Ability to explain complex technical concepts t=
+o a wide range of audiences;.  Experience building and operating Python-bas=
+ed software in Kubernetes-b...</i><br><br>10) <b><a href=3D"https://jobs.le=
+ver.co/stackedsp/938c1ea9-a955-4d7e-97f0-9b323e962d11"}">Series B, Analytic=
+s Platform: Security Engineer</a></b> (San Francisco / Remote), Stackedsp I=
+nc - <i> $175k to $250k</i><br><i>5 years of experience. </i><i> Experience=
+ with core infrastructure products like Kubernetes, AWS, and Terraform.  Ab=
+ility to work with multiple engineering teams and codebases , co...</i><br>=
+<br>11) <b><a href=3D"https://boards.greenhouse.io/trace3/jobs/6271043"}">S=
+r. Cloud Architect | Azure</a></b> (US, Remote), Trace3 - <i> $170k to $200=
+k</i><br><i>3 years of experience. </i><i> Ability to produce as-built docu=
+mentation and materials.  Ability to design, build, and execute automation =
+frameworks for deployment of MS Azure Clou...</i><br><br>12) <b><a href=3D"=
+https://netflix.eightfold.ai/api/apply/v2/jobs/790299151032"}">Software Eng=
+ineer L5 - Full Stack Cloud Games Developer Tools</a></b> (USA - Remote), N=
+etflix - <i> $170k to $720k</i><br><i>8 years of experience. </i><i> Experi=
+ence working with game development and engines such as Unity and Unreal Nic=
+e to have:.  Experience to determine your compensation in the market...</i>=
+<br><br>13) <b><a href=3D"https://jobs.ashbyhq.com/rula/f656b6b2-4ee1-4b3b-=
+aa2e-4ff18e7e6f8d"}">Sr. Software Engineer - Partnerships (Remote)</a></b> =
+(Remote - United States), Rula - <i> $162k to $191k</i><br><i>5 years of ex=
+perience. </i><i> Experience to pair with fellow engineers, improve our pro=
+cesses, and foster a culture of engineering excellence.  Experience mentori=
+ng others, review...</i><br><br>14) <b><a href=3D"https://www.upside.com/ab=
+out/careers/job-openings?gh_jid=3D7649790002"}">Senior Mobile Engineer, Kot=
+lin Multiplatform</a></b> (Remote, United States), Upside - <i> $159k to $1=
+75k</i><br><i> Experience, qualifications, work location, and market condit=
+ions</i><br><br>15) <b><a href=3D"http://www.hioscar.com/careers/6239455?gh=
+_jid=3D6239455"}">Senior Software Engineer I</a></b> (Remote), Oscar Health=
+ - <i> $158k to $207k</i><br><i>5 years of experience. </i><i> Experience p=
+roposing, experimenting, and iterating, whether it be a new shiny technolog=
+y or an arcane, ill-conceived data structure; our company may....</i><br><b=
+r>16) <b><a href=3D"https://boards.greenhouse.io/embed/job_app?for=3D10xgen=
+omics&token=3D6260507?gh_jid=3D6260507"}">Senior Security Engineer, Identit=
+y & Access Management</a></b> (California, USA (Remote)), 10x Genomics - <i=
+> $150k to $225k</i><br><i>3 years of experience. </i><i> Knowledge of the =
+Okta platform, a proven history of configuring SCIM,.  Ability to work hand=
+s-on across a wide variety of software designs and techno...</i><br><br>17)=
+ <b><a href=3D"https://www.backstage.com/careers/?gh_jid=3D7645250002"}">Se=
+nior Software Engineer - Ruby on Rails</a></b> (Remote - USA), Backstage - =
+<i> $150k to $180k</i><br><i>8 years of experience. </i><i> Development (de=
+legating, code reviews, overseeing projects to completion) and shipping sof=
+tware in a professional team setting Strong project managem...</i><br><br>1=
+8) <b><a href=3D"https://boards.greenhouse.io/113134/jobs/7637015002"}">Sen=
+ior Backend Engineer- Ruby on Rails</a></b> (Remote - USA), Cast & Crew Ent=
+ertainment Services, Llc - <i> $150k to $180k</i><br><i>8 years of experien=
+ce. </i><i> Experience leading feature development (delegating, code review=
+s, overseeing projects to completion) and shipping software in a profession=
+al team set...</i><br><br>19) <b><a href=3D"https://bpcs.com/careers/jobs/a=
+vail/6263799?gh_jid=3D6263799"}">Senior Graph Database Modeler (Python/Spar=
+k)</a></b> (Remote), Blueprint Technologies - <i> $145k to $181k</i><br><i>=
+5 years of experience. </i><i> Ability to make an impact is amplified when =
+you join one of our teams.  Experience with the world=E2=80=99s best techno=
+logy.  Experience with Software develo...</i><br><br>20) <b><a href=3D"http=
+s://stripe.com/jobs/listing/integreation-engineer-launch-team/6099406"}">In=
+tegreation Engineer, Launch Team</a></b> (Remote in United States), Stripe =
+- <i> $145k to $218k</i><br><i>1-3 years of experience. </i><i> Self-starte=
+r with the ability to assess, troubleshoot and work autonomously to decompo=
+se and solve complex problems.  Experience working in a Profess...</i><br><=
+br>21) <b><a href=3D"https://jobs.lever.co/watchguard/8dae042a-31bb-47a6-bf=
+53-93cf9b7757b4"}">Staff Software Engineer</a></b> (Remote, USA), Watchguar=
+d - <i> $145k to $155k</i><br><i> Experience with multi-process/multi-threa=
+d programing in Linux environment, and strong understanding of TCP/IP stack=
+, networking protocols and conten...</i><br><br>22) <b><a href=3D"https://b=
+oards.greenhouse.io/evolvevacationrental/jobs/6211074003"}">Senior Data Eng=
+ineer</a></b> (Remote - US), Evolve Vacation Rental - <i> $140k to $185k</i=
+><br><i> Experience coding with Python is required.  Experience with Snowfl=
+ake, Fivetran, dbt, Tableau, and AWS is preferred.  Experience with Git ver=
+sion con...</i><br><br>23) <b><a href=3D"https://jobs.lever.co/includedheal=
+th/586af93f-f4c4-402a-a3cc-c73aa780df10"}">Senior Software Engineer, Data T=
+ools</a></b> (Remote), Included Health - <i> $138k to $254k</i><br><i>5 yea=
+rs of experience. </i><i> Experience with coding in languages including but=
+ not limited to C#, C++, Java, Python, or Scala.  Experience developing pro=
+duction-grade frontend ap...</i><br><br>24) <b><a href=3D"https://workforce=
+now.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requi=
+sitions/521715?cid=3D94f16522-9f0f-4a13-b72c-b0eaf60d119d&lang=3D&locale=3D=
+"}">Director, Engineering</a></b> (Remote, US), 94f16522-9f0f-4a13-b72c-b0e=
+af60d119d - <i> $138k to $260k</i><br><i>10 years of experience. </i><i> Ex=
+perience which includes at least 5 years of proven success in building and =
+managing high performing engineering teams.  Experience in contributing ...=
+</i><br><br>25) <b><a href=3D"https://jobs.lever.co/nava/46a4722b-e743-4259=
+-9d92-239f6ac3e380"}">Sr. Software Engineer (Backend)</a></b> (Remote), Nav=
+a - <i> $135k to $153k</i><br><i>6 years of experience. </i><i> Experience =
+building web applications and creating APIs.  Experience with backend & Dev=
+Ops skills, Java Spring, Kubernetes, and SQL/RDS,.  Ability to ...</i><br><=
+br>26) <b><a href=3D"https://consensys.io/open-roles/6271895?gh_jid=3D62718=
+95"}">Senior Platform Engineer</a></b> (EMEA - Remote), Consensys - <i> $13=
+4k to $180k</i><br><i>2 years of experience. </i><i> Experience working wit=
+h Kubernetes and its internals.  Experience with infrastructure tooling, pa=
+rticularly Crossplane =E2=97=8F Background in software engin...</i><br><br>=
+27) <b><a href=3D"https://careers.quadient.com/en/jobs/software-engineer"}"=
+>Software Engineer</a></b> (Hartford - United States of America - Remote), =
+Neopost - <i> $122k to $183k</i><br><i>3 years of experience. </i><i> Exper=
+ience on one of these programming languages: Java, Typescript.  Knowledge o=
+f English both orally and written.  Ability to prioritize and indepen...</i=
+><br><br>28) <b><a href=3D"https://gdit.wd5.myworkdayjobs.com/en-US/Externa=
+l_Career_Site/job/Any-Location--Remote/Appian-Developer_RQ186100"}">Appian =
+Developer</a></b> (Any Location / Remote), General Dynamics - <i> $121k to =
+$163k</i><br><i>2 years of experience. </i><i>Suitability: Public Trust/Oth=
+er Required: Other Job Family: Software Engineering Job Qualifications: Ski=
+lls: Appian (Platform), Appian BPM, Appian Pro...</i><br><br>29) <b><a href=
+=3D"https://careers.compassgroupcareers.com/senior-data-engineer-remote/job=
+/28510147"}">SENIOR DATA ENGINEER- REMOTE 1348314</a></b> (REMOTE, Charlott=
+e, NC, REMOTE, United States), Compass Group - <i> $120k to $140k</i><br><i=
+>5 years of experience. </i><i> Experience with Fivetran and dbt or similar=
+ tools are also a must have.  Experience using ETL software (Fivetran, dbt,=
+ Airflow, etc.  Proficiency in ...</i><br><br>30) <b><a href=3D"https://job=
+s.jobvite.com/civicplus/job/ozWtufwc?nl=3D1&nl=3D1"}">Senior Software Engin=
+eer</a></b> (Remote , United States), Civicplus, Llc - <i> $119k to $181k</=
+i><br><i>8 years of experience. </i><i> Experience with unit testing and wr=
+iting testable code.  Experience and a Degree in Computer Science or relate=
+d field; or 8 yrs of relevant experienc...</i><br><br>31) <b><a href=3D"htt=
+ps://careers-cotiviti.icims.com/jobs/13447/sr.--devops-engineer---ai/job?in=
+_iframe=3D1"}">Sr. DevOps Engineer - AI</a></b> (Remote, UNAVAILABLE, US), =
+Cotiviti - <i> $110k to $140k</i><br><i>5 years of experience. </i><i> Expe=
+rience deploying/monitoring cloud-based applications in Azure or AWS.  Expe=
+rience with Continuous Integration/Continuous Delivery (CI/CD).  Exper...</=
+i><br><br>32) <b><a href=3D"https://careers-healthequity.icims.com/jobs/724=
+0/sr-netsuite-developer/job?in_iframe=3D1"}">Sr NetSuite Developer</a></b> =
+(US-Remote), Healthequity Inc - <i> $109k to $160k</i><br><i>8 years of exp=
+erience. </i><i> Experience with usage-based subscription billing solutions=
+? Come play a meaningful role in building out and enhancing a large, comple=
+x, critically im...</i><br><br>33) <b><a href=3D"https://maxar.wd1.myworkda=
+yjobs.com/MAXAR/job/Remote-United-States/Sr-Software-Engineer_R21317"}">Sr.=
+ Software Engineer</a></b> (Remote (United States)), Maxar Technologies - <=
+i> $107k to $229k</i><br><i>5 years of experience. </i><i> Experience in Gi=
+t (GitHub, GitLab, BitBucket).  Experience with formal software development=
+ methodologies (Agile)</i><br><br>34) <b><a href=3D"https://workiva.wd1.myw=
+orkdayjobs.com/careers/job/USA---Remote/Senior-Machine-Learning-Engineer_R9=
+280"}">Senior Machine Learning Engineer</a></b> (USA - Remote), Workiva - <=
+i> $102k to $173k</i><br><i>2 years of experience. </i><i> Experience with =
+a Bachelor's Degree or equivalent experience Preferred Qualifications.  Pro=
+ficiency in the ML development cycle, toolsets, and applyi...</i><br><br>35=
+) <b><a href=3D"https://leidos.wd5.myworkdayjobs.com/External/job/6314-Remo=
+teTeleworker-US/Sr-Fullstack-Java-Developer_R-00144264"}">Sr Fullstack Java=
+ Developer</a></b> (6314 Remote/Teleworker US), Leidos Holdings - <i> $101k=
+ to $183k</i><br><i>10 years of experience. </i><i> Ability to obtain a Pub=
+lic Trust Clearance.  Experience with Object oriented design and developmen=
+t, data structures and design patterns.  Ability to...</i><br><br>36) <b><a=
+ href=3D"https://jobs.ashbyhq.com/procurementsciences/61efba12-ba14-4ac4-9d=
+14-98fe55e27d52"}">Site Reliability Engineer (SRE)</a></b> (Remote), Procur=
+ementsciences - <i> $100k to $120k</i><br><i> Background in Kubernetes, Hel=
+m, observability platforms, and cloud providers such as Azure.  Experience =
+with cloud providers, particularly Azure and ...</i><br><br>37) <b><a href=3D=
+"https://mantech.wd1.myworkdayjobs.com/External/job/USA-VA-Alexandria/Artif=
+icial-Intelligence-Large-Language-Model-Engineer_R55384"}">Artificial Intel=
+ligence/Large Language Model Engineer</a></b> (USA-VA-Alexandria, USA-Remot=
+e Work), Mantech - <i> $99k to $164k</i><br><i>5 years of experience. </i><=
+i> Proficiency in programming languages such as Python.  Experience to incl=
+ude frameworks and libraries like TensorFlow, PyTorch, and Hugging Face Tra=
+ns...</i><br><br>38) <b><a href=3D"https://r1rcm.wd1.myworkdayjobs.com/R1RC=
+M/job/Remote-USA/Senior-Data-Engineer_R240000003928"}">Senior Data Engineer=
+</a></b> (Remote, USA), R1 Rcm - <i> $92k to $148k</i><br><i>5 years of exp=
+erience. </i><i>Experience and financial performance of hospitals, health s=
+ystems and medical groups.  Experience in analytics and operation to unders=
+tand how to cent...</i><br><br>39) <b><a href=3D"https://rrhs.wd5.myworkday=
+jobs.com/RRH/job/ACM---Remote/Information-Security-Engineer_REQ_204332-1"}"=
+>Information Security Engineer</a></b> (ACM - Remote), Rochester Regional -=
+ <i> $90k to $130k</i><br><i>7 years of experience. </i><i> Ability to make=
+ an impact on the organization and influence your professional growth.  Exp=
+erience in designing and implementing information security ...</i><br><br>4=
+0) <b><a href=3D"https://boards.greenhouse.io/embed/job_app?for=3Dsignifyd9=
+5&token=3D6198541"}">Senior Security Engineer II</a></b> (United States (Re=
+mote);), Signifyd - <i> $90k to $135k</i><br><i>2 years of experience. </i>=
+<i> Ability to automate or develop basic tasks in at least one programming =
+language such as: Java, JavaScript, Python.  Experience working with cloud =
+tec...</i><br><br>41) <b><a href=3D"https://careers.radian.com/us/en/job/RA=
+DIUSR20240212EXTERNALENUS"}">Software Engineer - 100% Remote</a></b> (Remot=
+e, Maryland, 99999), Radian Group Inc - <i> $87k to $124k</i><br><i>4 years=
+ of experience. </i><i> Experience preferably with React, Node and MongoDB =
+or experience with Angular, ASP.  Experience with performance and optimizat=
+ion problems and a demo...</i><br><br>42) <b><a href=3D"https://myhrabc.wd5=
+.myworkdayjobs.com/Global/job/Carrollton-TX/DevSecOps-Application-Security-=
+Engineer-III_R2420517"}">DevSecOps Application Security Engineer III</a></b=
+> (Carrollton, TX, Remote, USA), Amerisourcebergen - <i> $86k to $123k</i><=
+br><i> Ability to remediate vulnerabilities against predefined SLAs, ensuri=
+ng that all vulnerabilities are resolved within required timeframes.  Coord=
+inatio...</i><br><br>43) <b><a href=3D"https://jobs.centene.com/us/en/jobs/=
+1522885/senior-application-development-engineer/"}">Senior Application Deve=
+lopment Engineer</a></b> (Remote-FL; Remote-GA; Remote-IA; Remote-IL; Remot=
+e-IN; Remote-MI; Remote-MN; Remote-MO; Remote-NC; Remote-ND; Remote-NE; Rem=
+ote-NM; Remote-OH; Remote-OK; Remote-PA; Remote-SC; Remote-TN; Remote-TX; R=
+emote-UT; Remote-WI), Centene - <i> $83k to $155k</i><br><i>4-6 years of ex=
+perience. </i><i> Analyzes user needs and software requirements to determin=
+e feasibility of design within time and cost constraints, including the abi=
+lity to estimate ...</i><br><br>44) <b><a href=3D"https://cni.wd1.myworkday=
+jobs.com/en-us/cni/job/REMOTE/Software-Developer-I_R6933"}">Software Develo=
+per I</a></b> (REMOTE), Cni - <i> $70k to $90k</i><br><i>1-2 years of exper=
+ience. </i><i> Experience with configuration management including implement=
+ing new systems, network, and/or application of security requirements prefe=
+rred.  Perform...</i><br><br>45) <b><a href=3D"https://job-boards.greenhous=
+e.io/remotecom/jobs/6214551003"}">Associate Team Lead, Engineering</a></b> =
+(Remote - Americas), Remote - <i> $60k to $137k</i><br><i> Experience as an=
+ Engineer, which includes building, shipping and maintaining a complex soft=
+ware project.  Experience in either backend (Elixir and Po...</i><br><br>46=
+) <b><a href=3D"https://zelis.wd1.myworkdayjobs.com/en-us/zeliscareers/job/=
+US-NJ-Remote/Senior-DevOps-Engineer_JR106679"}">Senior DevOps Engineer</a><=
+/b> (US NJ Remote, US MA Remote; US FL Remote; US MO Remote; US GA Remote; =
+US TX Remote), Zelis<br><i>8 years of experience. </i><i> Experience with A=
+utomated Testing Pipelines, Pipeline Templates, Git Repositories and Script=
+ing languages like PowerShell are required.  Monitor syst...</i><br><br>47)=
+ <b><a href=3D"https://www.ycombinator.com/companies/campfire-applied-ai-co=
+mpany/jobs/vKkVWIU-founding-engineer"}">Founding Engineer =F0=9F=A7=99</a><=
+/b> (San Francisco, CA, US / Remote (CA; US)), Campfire-applied-ai-company<=
+br><i>3 years of experience. </i><i> Experience with modern Javascript/Type=
+script, React (Remix), Express Swift with at least some familiarity with th=
+e others.  Experience with fundament...</i><br><br>48) <b><a href=3D"https:=
+//job-boards.greenhouse.io/bynderjobs/jobs/5332206004"}">Mid Level/Senior S=
+oftware Engineer</a></b> (Remote, USA and Canada), Bynder<br><i>5 years of =
+experience. </i><i> Knowledge of deployment through environments (CI/CD) e.=
+  Experience building microservices with containers, Scala and Reactive.  D=
+emonstrated knowled...</i><br><br>49) <b><a href=3D"https://www.ycombinator=
+.com/companies/luminai/jobs/DyTfa8z-software-engineer"}">Software Engineer<=
+/a></b> (San Mateo / San Mateo, CA, US / Remote), Luminai<br><i>4 years of =
+experience. </i><i> As a senior member of the engineering team, you are exp=
+ected to have a strong proficiency in fundamentals of software engineering =
+and exceptional abi...</i><br><br>50) <b><a href=3D"https://www.ycombinator=
+.com/companies/firecrawl/jobs/bL7cZGP-dev-ops-engineer"}">Dev Ops Engineer<=
+/a></b> (San Francisco, CA, US / Boston, MA, US / Orlando, FL, US / Remote =
+(US)), Firecrawl<br><i> Experience with Kubernetes (K8s) and container orch=
+estration.  Knowledge of DevOps practices and tools.  Experience scaling pl=
+atforms for high traffi...</i><br><br>51) <b><a href=3D"https://workforceno=
+w.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisi=
+tions/490298?cid=3D567e686e-7575-49d9-b29f-985e7365f987&lang=3D&locale=3D"}=
+">Cybersecurity Solutions Engineer</a></b> (USA, Remote, US), 567e686e-7575=
+-49d9-b29f-985e7365f987<br><i> In-depth knowledge of cybersecurity technolo=
+gies, including firewalls, VPNs, IDS/IPS, endpoint security, SIEM, DLP, and=
+ cloud security platforms (AWS...</i><br><br>52) <b><a href=3D"https://www.=
+jamf.com/about/careers/jobs/?gh_jid=3D5254183004&gh_jid=3D5254183004"}">Clo=
+ud Operations Engineer I</a></b> (US Remote), Jamf<br><i>1 years of experie=
+nce. </i><i> Python Develop and maintain an advanced level of knowledge of.=
+  Experience managing priorities and responding effectively to emergent inc=
+idents both ...</i><br><br>53) <b><a href=3D"https://jobs.lever.co/flowfoun=
+dation/d0c51563-a699-431c-9266-a7f15d1a4371"}">Senior Software Engineer, De=
+veloper Experience</a></b> (Remote, USA Remote, Canada), Flow Foundation<br=
+><i>6 years of experience. </i><i>Senior Software Engineer, Developer Exper=
+ience Remote, USA Remote, Canada Engineering / Full-time / Remote Apply for=
+ this job Flow is a layer one bloc...</i><br><br>54) <b><a href=3D"https://=
+referrals-ddn.icims.com/jobs/4888/data-engineer/job?in_iframe=3D1"}">Data E=
+ngineer</a></b> (Remote, UNAVAILABLE, US), Ddn<br><i>5 years of experience.=
+ </i><i> The ideal candidate has a blend of data engineering expertise, dee=
+p knowledge of GTM systems like Salesforce and HubSpot, and strong collabor=
+ation sk...</i><br><br>55) <b><a href=3D"https://www.platomics.com/career//=
+4395809101?gh_jid=3D4395809101"}">Key Account Manager</a></b> (Remote / Vie=
+nna, Austria), Platomics Gmbh<br><i>5 years of experience. </i><i> Experien=
+ce as a Full Stack Software Developer.  Experience mentoring and leading a =
+engineering team; having been involved in hiring and strategic dec...</i><b=
+r><br>56) <b><a href=3D"https://careers.sdworx.com/jobs/4998898-full-stack-=
+developer-java-angular"}">Full Stack Developer (Java & Angular)</a></b> (Hy=
+brid Remote, Ebene, Mauritius, MU), Sdworxnv<br><i>5-10 years of experience=
+. </i><i> Experience in building high-performing, scalable, enterprise-grad=
+e applications and be able to write clean code and ensure your programs run=
+ properly...</i><br><br>57) <b><a href=3D"https://ameresco.wd5.myworkdayjob=
+s.com/Ameresco/job/United-States---Maine---Portland/Software-Engineering-Co=
+-op_R2878"}">Software Engineering Co-op</a></b> (United States - Maine - Po=
+rtland, United States - Massachusetts - Remote), Ameresco Inc<br><i> Knowle=
+dge of Python and other similar programming languages.  Knowledge of AI/ML =
+principles and practices that can improve processing speed and compl...</i>=
+<br><br>58) <b><a href=3D"https://careers.iubenda.com/jobs/5000678-senior-f=
+ullstack-developer-vue-js-php-remote"}">Senior Fullstack Developer | Vue.js=
+ & PHP (Remote)</a></b> (Fully Remote, Autonomous Province of Bolzano =E2=80=
+=93 South Tyrol, IT; Balearic Islands, ES; Barcelona, ES; Bari, IT; Bilbao,=
+ ES; Genoa,), Teamblue<br><i>5 years of experience. </i><i> Understanding o=
+f Git core concepts; - Excellent communication and collaboration skills; - =
+Full professional proficiency in English.  - Continuous int...</i><br><br>5=
+9) <b><a href=3D"https://www.phdata.io/jobs?gh_jid=3D6208729"}">Future Oppo=
+rtunity - Sr Machine Learning Engineers Apply Here</a></b> (US-Remote), Phd=
+ata<br><i>4 years of experience. </i><i> Experience deploying data science =
+models in a production setting.  The ability to build and operate robust da=
+ta pipelines using a variety of data sou...</i><br><br>60) <b><a href=3D"ht=
+tps://healthcatalyst.wd5.myworkdayjobs.com/healthcatalystcareers/job/US-Rem=
+ote/Ruby-on-Rails-Software-Engineer_REQ-2467"}">Ruby on Rails Software Engi=
+neer</a></b> (US Remote), Health Catalyst<br><i>5 years of experience. </i>=
+<i> Experience designers, data science and modelling specialists.  Experien=
+ce using CI/CD and DevOps tools Preferred Qualifications:.  Experience with=
+ co...</i><br><br>61) <b><a href=3D"https://careers-game-one.icims.com/jobs=
+/1285/web-developer/job?in_iframe=3D1"}">Web Developer</a></b> (Corporate R=
+emote, UNAVAILABLE, US), Game One<br><i>1-2 years of experience. </i><i> Ab=
+ility to write and edit technical documentation.  Ability to work and thriv=
+e in a fast-paced environment</i><br><br>62) <b><a href=3D"https://careers.=
+n-cons.co.uk/cloud-architect-193646/"}">Cloud Architect</a></b> (Remote, us=
+, United States), N-consulting-ltd-c8kmeixb<br><i>10 years of experience. <=
+/i><i></i><br><br>63) <b><a href=3D"https://referral-ellucian.icims.com/job=
+s/5434/sr.-finops-engineer-%28100%25-remote-us%29/job?in_iframe=3D1"}">Sr. =
+FinOps Engineer (100% remote US)</a></b> (Remote, UNAVAILABLE, US), Ellucia=
+n<br><i>5 years of experience. </i><i> Experience with cloud cost reduction=
+ and usage optimization strategies, such as right-sizing, reserved instance=
+s, savings plans, and anomaly detectio...</i><br><br>64) <b><a href=3D"http=
+s://boards.greenhouse.io/afresh/jobs/5335795004"}">Staff Software Engineer,=
+ React Native</a></b> (Toronto, Ontario, Canada OR Remote in Ontario), Afre=
+sh<br><i>6 years of experience. </i><i> Experience The following represents=
+ attributes our ideal candidate possesses.  Proficiency in working with Typ=
+eScript and developing APIs.  Ability t...</i><br><br>65) <b><a href=3D"htt=
+ps://cambiumlearning.wd1.myworkdayjobs.com/en-us/camb/job/Remote/XMLNAME-NE=
+T-Software-Engineer_REQ-3532"}">.NET Software Engineer</a></b> (Remote), Ca=
+i Cambium Assessment, Inc.<br><i>5 years of experience. </i><i> Experience =
+to include development work with relational databases, stored procedures, t=
+riggers, writing SQL queries.  Experienced in object oriented (...</i><br><=
+br>66) <b><a href=3D"https://vertofx.teamtailor.com/jobs/5002060-mid-to-sen=
+ior-level-frontend-web-developer"}">Mid to Senior Level Frontend Web Develo=
+per</a></b> (Hybrid Remote, Pune, IN), Vertofx<br><i> Proficiency in HTML, =
+CSS, and JavaScript.  Experience with popular JavaScript frameworks such as=
+ Angular.  Experience with version control systems (e</i><br><br>67) <b><a =
+href=3D"https://job-boards.greenhouse.io/convertkit/jobs/4522280007"}">Seni=
+or Software Engineer, Builders</a></b> (remote), Convertkit<br><i> Experien=
+ce writing code that is accessible, scalable, maintainable, and performant.=
+  Ability to dive deep into problems, especially in maintaining an...</i><b=
+r><br>68) <b><a href=3D"https://www.landmark.co.uk/current-vacancy?gh_jid=3D=
+6270863"}">DevOps Engineer</a></b> (Landmark - GBR - Home/Remote), Landmark=
+ Information Group<br><i> You will be experienced in DevOps practices with =
+knowledge of Agile methodologies and tooling.  You will also have/be: Exper=
+ience in Azure CI/CD (e. ...</i><br><br>69) <b><a href=3D"https://career.tr=
+uesec.com/jobs/5000160-security-infrastructure-engineer"}">Security Infrast=
+ructure Engineer</a></b> (Hybrid Remote, K=C3=B8benhavn, Denmark, DK; Stock=
+holm, Sweden, SE; Stockholm, Sweden, SE), Truesec<br><i>7 years of experien=
+ce. </i><i> Experience gathered from different projects and Incident Respon=
+se cases to help our customers stay ahead of the threat actors.  For someon=
+e who wants...</i><br><br>70) <b><a href=3D"https://jobs.lever.co/mentormat=
+e/b5bf40b7-abe8-4452-9cb7-d53e5ba36684"}">Regular Python/Django Engineer</a=
+></b> (Bulgaria Remote), Mentormate<br><i>1-2 years of experience. </i><i> =
+Experience with Python, Django, Django Rest Framework, Git, HTTP communicat=
+ion, PostgreSQL, Docker.  Experience in Celery, Kafka, AWS services (S3, S.=
+..</i><br><br>71) <b><a href=3D"https://boards.greenhouse.io/datacamp/jobs/=
+6269110"}">Senior Software Engineer (Ruby) - Payments</a></b> (Europe Remot=
+e), Datacamp<br><i> Experience with containerization and orchestration (Doc=
+ker, Kubernetes).  Bonus: Experience with payment systems such as Zuora or =
+Chargebee.  Experie...</i><br><br>72) <b><a href=3D"https://www.smartrecrui=
+ters.com/mobica/744000015371080"}">Full Stack ASP.NET Developer with Angula=
+r</a></b> (Remote, PL), Mobica<br><i>5 years of experience. </i><i> Ability=
+ to work closely and communicate effectively.  Experience in building scala=
+ble, high-performance web applications.  Ability to work effectivel...</i><=
+br><br>73) <b><a href=3D"https://careers.corsearch.com/jobs/5001728-fronten=
+d-developer-react-typescript"}">Frontend Developer - React & TypeScript</a>=
+</b> (Fully Remote, Helsinki, EMEA, FI), Corsearch<br><i>2-3 years of exper=
+ience. </i><i> Ability to make a meaningful impact on the product.  Experie=
+nce using, designing, and building REST APIs.  Experience with Figma and St=
+orybook is a p...</i><br><br>74) <b><a href=3D"https://jobs.lever.co/signin=
+solutions/0a32f1f9-3925-4170-83ce-b2669402659f"}">DevOps Engineer</a></b> (=
+Northampton / Remote), Sign In Solutions<br><i>2 years of experience. </i><=
+i> Experience in a DevOps, SRE, or cloud role.  Experience with Infrastruct=
+ure as Code frameworks such as Terraform, CloudFormation, or Azure ARM (Ter=
+ra...</i><br><br>75) <b><a href=3D"https://career.rdisoftware.com/jobs/1563=
+294-software-developer-c"}">Software Developer - C#</a></b> (Hybrid Remote,=
+ Debrecen, Debrecen, HU), Rdisoftware-1636533556<br><i> Experience for our =
+PEOPLE and our partner! Main Responsibilities:.  Ability to multifunction, =
+work on many small tasks belonging to one big project a...</i><br><br>76) <=
+b><a href=3D"https://ats.rippling.com/linenmaster/jobs/dba5c3a5-88a8-4769-b=
+d40-0f905efd53e1"}">Manager, Software Engineering</a></b> (Remote (United S=
+tates)), Linenmaster<br><i> Proficiency in Java or JVM languages (Scala, Gr=
+oovy, Kotlin, etc.  Experience with Service-Oriented Architecture (SOA), RE=
+ST APIs, event-driven and d...</i><br><br>77) <b><a href=3D"https://jobs.le=
+ver.co/integrators.cz/0e3d45ec-c5c8-4b8e-b44d-bcfa3da8b2a8"}">Information S=
+ecurity Development Engineer</a></b> (Remote / Prague 8), Integrators Servi=
+ces A.s.<br><i> Ability to understand and modify existing codebases.  Exper=
+ience with workflow tools, preferably Atlassian Jira.  Experience with majo=
+r cloud platfor...</i><br><br>78) <b><a href=3D"https://epidemic-sound.team=
+tailor.com/jobs/5001833-senior-data-engineer-financial-systems"}">Senior Da=
+ta Engineer - Financial Systems</a></b> (Hybrid Remote, Stockholm, SE), Epi=
+demic-sound<br><i>5 years of experience. </i><i> Communication, collaborati=
+on, and facilitation skills, with the ability to effectively align and shar=
+e information with co-workers.  Ability to work ...</i><br><br>79) <b><a hr=
+ef=3D"https://voliagency.teamtailor.com/jobs/5003422-web-developer-wordpres=
+s"}">Web Developer (WordPress)</a></b> (Fully Remote, London, GB), Voliagen=
+cy<br><i> Strong knowledge of database design and troubleshooting.  Experie=
+nce with PHP/WordPress CMS utilizing Advanced Custom Fields (we do not work=
+ with pag...</i><br><br>80) <b><a href=3D"https://fcamara.gupy.io/jobs/7842=
+552"}">Software Engineer (java), Senior</a></b> (Remote Work), Fcamara<br><=
+i>5 years of experience. </i><i> Knowledge of best practices, methodologies=
+ and design patterns for writing applications.  Knowledge of SOA and servic=
+e communication using RESTful AP...</i><br><br>81) <b><a href=3D"https://ww=
+w.workboard.com/jobs/?gh_jid=3D7645006002"}">Sr Backend Engineer (Node focu=
+sed)</a></b> (United States - Remote), Workboard<br><i>8 years of experienc=
+e. </i><i> Experience and proven experience in enterprise-level application=
+s and large- scale system architecture built with TypeScript and frameworks=
+ like Nest...</i><br><br>82) <b><a href=3D"https://ats.rippling.com/nerdio-=
+careers/jobs/67e389d8-b87f-417f-91d3-b49d979a9f84"}">Go Live Engineer - UK<=
+/a></b> (Remote (United Kingdom)), Nerdio-careers<br><i> Experience with In=
+tune, FSLogix and Active Directory (AAD, Azure AD DS, AD DS).  Experience c=
+onducting technical product demos Required Experience</i><br><br>83) <b><a =
+href=3D"https://careers.axpo.com/jobs/4998183-cybersecurity-engineer-w-m-d"=
+}">Cybersecurity Engineer (w/m/d)</a></b> (Hybrid Remote, Madrid, ES), Axpo=
+group<br><i> Knowledge of SIEM tools and cloud security principles.  Experi=
+ence and know-how with a passion for innovation and the joint search for ev=
+er better so...</i><br><br>84) <b><a href=3D"https://job-boards.greenhouse.=
+io/doitintl/jobs/6213795003"}">Senior Software Engineer K8s</a></b> (Remote=
+ EMEA), Doit International<br><i>6 years of experience. </i><i> Experience =
+in the analytics, optimization, and governance of cloud architecture, as we=
+ll as specializations in Kubernetes, GenAI, and more.  Experien...</i><br><=
+br>85) <b><a href=3D"https://job-boards.greenhouse.io/liginternal/jobs/6270=
+864"}">DevOps Engineer</a></b> (Remote), Landmark Information Group - Inter=
+nal<br><i> You will be experienced in DevOps practices with knowledge of Ag=
+ile methodologies and tooling.  Ability to communicate with team and peers.=
+  Experien...</i><br><br>86) <b><a href=3D"https://jobs.gohire.io/yourparki=
+ngspace-gnf5tges/senior-backend-engineer-php-laravel-go-lang-172315/"}">Sen=
+ior Backend Engineer (PHP / Laravel / Go-lang)</a></b> (Remote, Remote, Uni=
+ted Kingdom), Yourparkingspace-gnf5tges - <i> 55k to 65k GBP</i><br><i> Exp=
+erience that saves them money and opens up a world of parking spaces they n=
+ever knew existed.  Experience in both Go-lang and PHP (Laravel) develo...<=
+/i><br><br>87) <b><a href=3D"https://simspace.com/careers/application?gh_ji=
+d=3D4403963006"}">Remote - Staff Software Engineer, Back End</a></b> (Remot=
+e - U.S.), Simspace<br><i>8 years of experience. </i><i></i><br><br>88) <b>=
+<a href=3D"https://careers.mobilise.cloud/jobs/5001254-python-developer-dja=
+ngo-fastapi"}">Python Developer - Django - FastAPI</a></b> (Hybrid Remote, =
+Southampton, GB), Mobilisecloud - <i> 45k to 49k GBP</i><br><i>2-3 years of=
+ experience. </i><i> Experience working in a Continuous Deployment (CD) env=
+ironment is another plus</i><br><br>89) <b><a href=3D"https://intenthq.team=
+tailor.com/jobs/5002544-senior-full-stack-engineer"}">Senior Full Stack Eng=
+ineer</a></b> (Hybrid Remote, London, London, GB), Intenthq<br><i> Ability =
+to pick up new technologies</i><br><br>90) <b><a href=3D"https://www.jobs.b=
+ica.services/jobs/4999798-senior-front-end-engineer"}">Senior Front-End Eng=
+ineer</a></b> (Hybrid Remote, Sofia, BG), Bica<br><i>5 years of experience.=
+ </i><i> Experience with a React ecosystem =E2=80=93 Redux, Formik, React Q=
+uery, Monorepos</i><br><br>91) <b><a href=3D"https://careers.attensi.com/jo=
+bs/4324413-open-application-fullstack-net"}">Open application: Fullstack .N=
+ET</a></b> (Hybrid Remote, Oslo, Europe, NO), Attensi<br><i> Someone that i=
+s experienced and possesses good knowledge of API management and microservi=
+ces.  Experience of building and scaling digital products to...</i><br><br>=
+92) <b><a href=3D"https://www.myrocketcareer.com/careers/r-077179/data-engi=
+neer-web-analytics/"}">Data Engineer - Web Analytics</a></b> (Remote, Michi=
+gan, United States of America), Quicken Loans<br><i>5 years of experience. =
+</i><i> Experience with tag management system (Adobe Launch).  Experience i=
+n Adobe Experience Platform (AEP) and Adobe Web SDK.  Experience in modern =
+front-e...</i><br><br>93) <b><a href=3D"https://job-boards.greenhouse.io/hu=
+meai/jobs/4004431008"}">Staff Frontend Engineer</a></b> (NYC, San Jose, or =
+Remote), Hume Ai<br><i>6-10 years of experience. </i><i></i><br><br>94) <b>=
+<a href=3D"https://careers.abarcahealth.com/details/?gh_jid=3D6124744003"}"=
+>Senior DevOps Engineer</a></b> (Remote), Abarca Health<br><i>6 years of ex=
+perience. </i><i> Experience in Azure DevOps for repository management, CI/=
+CD, and solution delivery.  Experience with Object-Oriented Programming (OO=
+P) in C#, ASP.  E...</i><br><br>95) <b><a href=3D"https://valuenet-group.jo=
+bs.personio.de/job/1746340?language=3Den"}">Senior Backend Engineer (m/f/d)=
+ fulltime remote EU</a></b> (Remote, Bayern, DE; M=C3=BCnchen, Bayern, DE; =
+Puerto del Rosario, ES), Valuenet-group<br><i>7 years of experience. </i><i=
+> Experience with Django is a plus.  Experience with JavaScript (vanilla an=
+d/or frameworks).  Experience with Git, unit, and integration testing</i><b=
+r><br>96) <b><a href=3D"https://boards.greenhouse.io/commercehub/jobs/62635=
+62"}">Senior Software Engineer - C# / .NET</a></b> (Ireland - Remote), Comm=
+ercehub<br><i>3-5 years of experience. </i><i> Experience designers to brin=
+g to life excellent customer experiences.  Ability to develop robust and se=
+cure code.  Experience scaling applications in...</i><br><br>97) <b><a href=
+=3D"https://career.knightec.se/jobs/4999902-senior-cyber-security-consultan=
+t-grc"}">Senior Cyber Security Consultant GRC</a></b> (Hybrid Remote, =C3=96=
+rnsk=C3=B6ldsvik, North, SE; Ume=C3=A5, North, SE), Knightec<br><i>5 years =
+of experience. </i><i> Deep knowledge of computer hardware, software, and n=
+etwork systems to design secure architectures that protect clients' digital=
+ assets.  Experience i...</i><br><br>98) <b><a href=3D"https://amplify.wd1.=
+myworkdayjobs.com/en-us/amplify_careers/job/Remote---United-States/Senior-S=
+oftware-Engineer--Contractor-_Req_11408"}">Senior Software Engineer (Contra=
+ctor)</a></b> (Remote - United States), Amplify<br><i>5 years of experience=
+. </i><i> Experience with server-side development preferably in Java.  Expe=
+rience with database technologies (modeling, ORMs, tuning).  Experience dep=
+loying pr...</i><br><br>99) <b><a href=3D"https://careers.qualfon.com/job/R=
+emote-PROGRAMMER%2C-APPLICATIONS%2C-III-IN/1215131100/"}">PROGRAMMER, APPLI=
+CATIONS, III</a></b> (Remote, IN - Remote, IN), Careers.qualfon.com<br><i>5=
+ years of experience. </i><i> Developer position requires the ability to le=
+ad more junior.  Develop a detailed knowledge of multiple department=E2=80=99=
+s products, applications and proces...</i><br><br>100) <b><a href=3D"https:=
+//career.globant.com/job/Ciudad-de-Mexico-SSr-Adv-DevOps-Engineer-with-Java=
+-and-Splunk-Remo/584806917/"}">SSr Adv DevOps Engineer with Java and Splunk=
+</a></b> (Ciudad de Mexico, Remote, MX), Globant<br><i>4 years of experienc=
+e. </i><i> Experience with CI/CD, infrastructure as code and other modern T=
+echnology practices.  Experience building and operating distributed systems=
+.  Experie...</i><br><br>101) <b><a href=3D"https://jobs.ashbyhq.com/acquir=
+d/87a50c03-c523-4c36-98c8-df4e8c0a3b02"}">Full Stack Java Developer (3 mont=
+h contract)</a></b> (Remote - Canada), Acquird<br><i>3-5 years of experienc=
+e. </i><i> 3-5 years of hands-on experience developing in Java/J2EE (Java 8=
++) and knowledge of Object Oriented design concepts and design patterns.  E=
+xperience ...</i><br><br>102) <b><a href=3D"https://job-boards.greenhouse.i=
+o/ecoatmgazelle/jobs/4134642008"}">Staff Enterprise Applications Engineer=E2=
+=80=AF</a></b> (Remote), Ecoatm | Gazelle<br><i>12 years of experience. </i=
+><i> Experience with Oracle Forms and Reports, Apex, Oracle Application Fra=
+mework (OAF), JDeveloper, Custom.  Experience with Oracle Workflow Builder =
+and ...</i><br><br>103) <b><a href=3D"https://boards.greenhouse.io/clickhou=
+se/jobs/5335613004"}">Sr Cloud Infrastructure Engineer - Remote</a></b> (Un=
+ited Kingdom (remote)), Clickhouse<br><i>5 years of experience. </i><i> Exp=
+erience building and operating scalable, fault-tolerant, distributed system=
+s.  Experience in Go, C/C++, Java, or similar.  Experience with cloud t...<=
+/i><br><br>104) <b><a href=3D"https://donaldson.wd5.myworkdayjobs.com/Donal=
+dsonCareers/job/Kuala-Lumpur/Sr-API-Developer_JR-21442"}">Sr. API Developer=
+</a></b> (Kuala Lumpur, Remote Location Malaysia), Donaldson Company<br><i>=
+We are seeking an experienced API Developer with a strong background in API=
+ Development using languages such as Java (with Frameworks like Spring Boot=
+...</i><br><br>105) <b><a href=3D"https://www.shopify.com/careers/analytics=
+-engineering-manager_cf36bd52-b67b-409f-9fd2-17fa152a6817?"}">Analytics Eng=
+ineering Manager</a></b> (Remote - Americas), Shopify<br><i> Experience bui=
+lding and managing high-performing data teams; you value collaborating on p=
+roblems, asking questions, delivering feedback, and supporti...</i><br><br>=
+106) <b><a href=3D"https://fa-emad-saasfaprod1.fa.ocs.oraclecloud.com/hcmRe=
+stApi/resources/latest/recruitingCEJobRequisitionDetails?expand=3Dall&onlyD=
+ata=3Dtrue&finder=3DById;Id=3D%224639%22,siteNumber=3DCX"}">Lead Engineer, =
+Services</a></b> (Remote Working, India), Fa-emad-saasfaprod1.fa.ocs<br><i>=
+ Ability to provide technical leadership and groom developers.  Knowledge o=
+f HTML 5 and Rest API development would help.  Knowledge of Continuous Inte=
+...</i><br><br>107) <b><a href=3D"https://try.commentsold.com/company/caree=
+rs/apply-now/?gh_jid=3D6214430003"}">Wordpress Frontend Developer</a></b> (=
+India - Remote), Commentsold<br><i>2 years of experience. </i><i> 2 years o=
+f experience in WordPress development or a similar role, with the ability t=
+o handle multiple tasks.  Experience with WordPress, PHP, HTML, C...</i><br=
+><br>108) <b><a href=3D"https://job-boards.greenhouse.io/truelogic/jobs/764=
+1772002"}">Senior Full-stack Engineer (Python or Golang) =E2=80=93 Fintech<=
+/a></b> (Remote, anywhere in LATAM), Truelogic Software<br><i>3 years of ex=
+perience. </i><i> Experience with relational databases (MySQL, PostgreSQL).=
+  Experience in frontend development with React, HTML, CSS</i><br><br>109) =
+<b><a href=3D"https://linksquares.com/careers/open-positions/?gh_jid=3D4442=
+421005"}">Senior Frontend Software Engineer</a></b> (Remote), Linksquares, =
+Inc.<br><i> Experience with component libraries, specifically using MUI as =
+a base.  Ability to help the entire company collaborate better</i><br><br>1=
+10) <b><a href=3D"https://celebrus.teamtailor.com/jobs/5000483-trainee-soft=
+ware-engineer"}">Trainee Software Engineer</a></b> (Hybrid Remote, Chennai,=
+ India, IN), Celebrus<br><i> Ability to break down complex problems into sm=
+aller, manageable parts and find logical solutions.  Experience using Git f=
+or code collaboration and tr...</i><br><br>111) <b><a href=3D"https://job-b=
+oards.greenhouse.io/discord/jobs/7623285002"}">Senior Software Engineer, Ac=
+tivities Studio</a></b> (San Francisco, CA or Remote), Discord<br><i></i><b=
+r><br>112) <b><a href=3D"https://jobs.ashbyhq.com/kin/dc045fc9-3cee-49a5-88=
+24-b855d3d31f29"}">Staff Software Engineer - Production Support</a></b> (Re=
+mote), Kin<br><i>6 years of experience. </i><i> Experience and stability of=
+ the tech ecosystem at all layers.  Experience coding with Ruby on Rails.  =
+Experience with architectural planning and desi...</i><br><br>113) <b><a hr=
+ef=3D"https://jobs.lever.co/versapay/6ab8c421-455e-44dc-8c72-16bd63d6dfdc"}=
+">Senior Software Engineer - React</a></b> (Canada (Remote)), Versapay - <i=
+> 120k to 140k CAD</i><br><i>7 years of experience. </i><i> Background in c=
+omputer science, engineering, and/or mathematics with +7 years of experienc=
+e in software engineering under your belt.  Knowledge of an...</i><br><br>1=
+14) <b><a href=3D"https://boards.greenhouse.io/crunchyroll/jobs/6264204?gh_=
+jid=3D6264204"}">Senior Software Engineer, Android</a></b> (Remote), Crunch=
+yroll<br><i></i><br><br>115) <b><a href=3D"https://jobs.lever.co/docebo/71e=
+d21a6-9fd0-4797-b261-8469bd324db1"}">Backend Developer - Golang (Contractor=
+)</a></b> (Remote Europe / Milan, Italy), Docebo<br><i>3 years of experienc=
+e. </i><i> Experience for our employees, customers and partners.  Experienc=
+e and a deep understanding of web applications.  Knowledge of handwritten G=
+oLang and ...</i><br><br>116) <b><a href=3D"https://careers.datadoghq.com/d=
+etail/6269768/?gh_jid=3D6269768"}">Library Software Engineer - Java (EMEA)<=
+/a></b> (Germany, Remote; Ireland, Remote; United Kingdom, Remote; Poland, =
+Remote; Italy, Remote; Sweden, Remote), Datadog<br><i> Experience with mult=
+iple web frameworks (e.  Experience in measuring and optimizing code.  Expe=
+rience with other JVM runtimes, such as J9 or GraalVM</i><br><br>117) <b><a=
+ href=3D"https://careers.elder.org/jobs/4780472-frontend-engineer"}">Fronte=
+nd Engineer</a></b> (Hybrid Remote, London, London, GB), Elder<br><i> Exper=
+ience allowing a personal, transparent and flexible care experience for all=
+.  Experience building Single Page Applications with React.  Experien...</i=
+><br><br>118) <b><a href=3D"https://jobs.ashbyhq.com/moderntreasury/880599e=
+d-b8e9-47db-a94e-91515b532d18"}">Applied AI Engineering Tech Lead</a></b> (=
+San Francisco, New York, Remote), Modern Treasury<br><i>7-10 years of exper=
+ience. </i><i> This position requires someone with a strong background in a=
+pplied AI research, a passion for solving real-world problems, and the abil=
+ity to work in...</i><br><br>119) <b><a href=3D"https://petco.wd1.myworkday=
+jobs.com/External/job/Remote---Mexico/Software-Engineer_R275167-1"}">Softwa=
+re Engineer</a></b> (Remote - Mexico), Petco<br><i>2 years of experience. <=
+/i><i> Proficiency in one or more programming languages (e.  Experience wit=
+h version control systems (e.  Experience with web development frameworks (=
+e</i><br><br>120) <b><a href=3D"https://jobs.ascension.org/us/en/job/AHEAHU=
+US361111EXTERNALENUS"}">Sr. Software Engineer (Full-Stack/Frontend Focused)=
+</a></b> (Remote,), Ascension Health<br><i>7 years of experience. </i><i> E=
+xperience with Micro frontends and component driven development.  Experienc=
+e with continuous integration/deployment (Git, Jenkins, Maven, JMeter).  ..=
+.</i><br><br>121) <b><a href=3D"https://www.ycombinator.com/companies/kaya/=
+jobs/QNMq3OM-software-engineer-python"}">Software Engineer - Python</a></b>=
+ (Kuala Lumpur, Federal Territory of Kuala Lumpur, MY / Remote (MY)), Kaya<=
+br><i>3 years of experience. </i><i> Background in designing and building s=
+calable APIs, understanding the intricacies of RESTful architectures.  Expe=
+rience working with production syste...</i><br><br>122) <b><a href=3D"https=
+://careers.coolbet.ee/jobs/4997247-security-engineer"}">Security Engineer</=
+a></b> (Hybrid Remote, Tallinn, Europe, EE), Coolbet<br><i> Background in S=
+ecurity Engineering, DevOps, IT Operations, or related roles.  Advanced kno=
+wledge of security concepts related to web applications, co...</i><br><br>1=
+23) <b><a href=3D"https://www.fglife.com/about/careers/apply.html?gh_jid=3D=
+5992906003"}">Software Engineer - Oracle PL/SQL</a></b> (Remote), Fgl Holdi=
+ngs<br><i>0-3 years of experience. </i><i> Experience & Education Requireme=
+nts Bachelor's degree (preferred emphasis in.  Experience 0-3 years of hand=
+s-on technical experience in designing and...</i><br><br>124) <b><a href=3D=
+"https://boards.greenhouse.io/gympass/jobs/7627454002"}">Senior Specialist =
+Software Engineer | Billing Team</a></b> (Brazil (Remote)), Gympass<br><i> =
+Experience with microservices and high-volume distributed systems.  Experie=
+nce with event-driven and cloud-based architectures, specifically AWS and .=
+..</i><br><br>125) <b><a href=3D"https://boards.greenhouse.io/jobber/jobs/7=
+464612002"}">Intermediate Software Engineer</a></b> (Remote in Canada), Job=
+ber<br><i>2 years of experience. </i><i> Experience to influence both our p=
+roduct and team, while developing their craft.  Proficiency in writing code=
+ in a few different languages.  Experien...</i><br><br>126) <b><a href=3D"h=
+ttps://jobs.lever.co/jumpcloud/892a6343-46c0-4dee-b7bd-08a5b83b6858"}">Engi=
+neering Manager - India</a></b> (Delhi, India - Remote / Bangalore, India -=
+ Remote / Hyderabad, India - Remote / Mumbai, India - Remote /), Jumpcloud<=
+br><i>3-5 years of experience. </i><i> Experience in commercial software de=
+velopment experience in a variety of languages and operating systems techno=
+logies (Golang, C++, Python, Java, Ker...</i><br><br>127) <b><a href=3D"htt=
+ps://boards.greenhouse.io/grafanalabs/jobs/5238851004"}">Principal Software=
+ Engineer - O11y, Asserts (Remote, Spain)</a></b> (Spain (Remote)), Grafana=
+labs - <i> 100k to 120k EUR</i><br><i> Experience delivering projects from =
+gathering requirements, brainstorming ideas all the way to shipping a produ=
+ct to the customer=E2=80=99s hands in a.  Expe...</i><br><br>128) <b><a hre=
+f=3D"https://velocityglobal.com/company/careers/velocityglobal/4402286006?g=
+h_jid=3D4402286006"}">Senior Manager, Data Engineering</a></b> (REMOTE - UN=
+ITED STATES), Velocity Global<br><i>6-10 years of experience. </i><i> Stay =
+up to date with new technologies and trends in data engineering and analyti=
+cs, and evaluate their potential impact and applicability to our orga...</i=
+><br><br>129) <b><a href=3D"https://ats.rippling.com/getsetup-job-board/job=
+s/400ba912-edab-4db7-83e7-ea445ef89375"}">Senior Software Engineer - India,=
+ 12-Month Contract</a></b> (Remote (India)), Getsetup-job-board<br><i>4-5 y=
+ears of experience. </i><i> Experience and possess exceptional proficiency =
+in both written and verbal communication.  Ability to effectively collabora=
+te within a remote team env...</i><br><br>130) <b><a href=3D"https://wizdaa=
+.recruitee.com/o/full-stack-developer-pk-2-5"}">Langchain Machine Learning =
+Developer</a></b> (Remote, Islamabad, Pakistan), Wizdaa<br><i> Experience w=
+ith VectorDB technologies like Pinecone, Weaviate, or other similar platfor=
+ms.  Experience: Strong experience with Supabase or Postgres d...</i><br><b=
+r>131) <b><a href=3D"https://jobs.ashbyhq.com/compound/cc720738-cc92-43cb-a=
+7ae-d021ea7757d7"}">Software Engineer</a></b> (Remote), Compound<br><i>2 ye=
+ars of experience. </i><i> Experience with tools like NodeJS, React, NextJS=
+, Postgres and AWS services</i><br><br>132) <b><a href=3D"https://jobs.ashb=
+yhq.com/kovo/d9a98f07-92ce-4acd-a774-a2528d57b933"}">Early hire: =F0=9F=9B=A0=
+=EF=B8=8F Product / Fullstack Engineering</a></b> (Remote), Kovo<br><i>2 ye=
+ars of experience. </i><i></i><br><br>133) <b><a href=3D"https://boards.gre=
+enhouse.io/knowde/jobs/6210891003"}">Middle Back-End Software Engineer - Ru=
+by/Rails</a></b> (Poland, Rzesz=C3=B3w or Bia=C5=82ystok (or remote from Po=
+land)), Knowde<br><i> Knowledge of Ruby language and Rails framework (3+ ye=
+ars).  Ability to take tasks from requirements to deployment.  Ability to w=
+ork within distribute...</i><br><br>134) <b><a href=3D"https://kyriba.wd5.m=
+yworkdayjobs.com/en-us/kyriba-careers/job/Warsaw/Middle-Java-Engineer_R-047=
+89-1"}">Middle Java Engineer</a></b> (Warsaw, Remote Poland), Kyriba<br><i>=
+3 years of experience. </i><i> Experience: At least 3+ years of experience =
+Team structure: The development team is located in Warsaw and Paris.  Under=
+standing of design patterns an...</i><br><br>135) <b><a href=3D"https://job=
+-boards.greenhouse.io/surveymonkey/jobs/6219332"}">Senior Software Engineer=
+</a></b> (Ottawa, Canada/Canada - Remote), Surveymonkey<br><i>5-8 years of =
+experience. </i><i> Experience focusing on building scalable, reliable back=
+end systems.  Experience with code reviews, writing technical specification=
+s, and a culture of...</i><br><br>136) <b><a href=3D"https://boards.greenho=
+use.io/paypay/jobs/4089237004"}">Backend Engineer</a></b> (Remote), Paypay<=
+br><i>3 years of experience. </i><i> Experience in using Java under profess=
+ional environment, or if you are non-Java user, excellent skills in general=
+ized programming languages, such as....</i><br><br>137) <b><a href=3D"https=
+://jobs.ashbyhq.com/thirstysprout/257a82a2-4f72-4142-993c-c33211dd2512"}">F=
+ull Stack Platform Engineer</a></b> (Remote), Thirstysprout<br><i> Experien=
+ce in building cloud-native architecture, containerization experience with =
+Docker, Kubernetes, or relevant technologies.  Experience with any...</i><b=
+r><br>138) <b><a href=3D"https://career.luxoft.com/jobs/senior-front-end-en=
+gineer-8421"}">Senior Front End Engineer</a></b> (Remote Mexico Mexico), Lu=
+xoft<br><i>5 years of experience. </i><i> Demonstrated proficiency in Front=
+ End development with Next.  Ability to work within a Scrum environment wit=
+h a Product Manager.  Experience in Graph...</i><br><br>139) <b><a href=3D"=
+https://job-boards.greenhouse.io/twilio/jobs/6268306"}">Principal Machine L=
+earning Engineer</a></b> (Remote - Colombia), Twilio<br><i>6 years of exper=
+ience. </i><i> Knowledge of Large Language Models (LLMs) such as OpenAI's G=
+PT models, Claude, Gemini, Llama, Whisper, and Groq to develop innovative G=
+enAI.  Experie...</i><br><br>140) <b><a href=3D"https://job-boards.greenhou=
+se.io/tunein/jobs/4521957007"}">Staff Software Engineer, Web</a></b> (Polan=
+d - Remote), Tunein<br><i>10 years of experience. </i><i> Experience guidin=
+g cross-team initiatives, influencing technical projects across multiple te=
+ams.  Experience with multimedia streaming and technologi...</i><br><br>141=
+) <b><a href=3D"https://jobs.snoop.app/o/android-mobile-engineer-2"}">Andro=
+id Mobile Engineer</a></b> (Remote, Norfolk, United Kingdom), Snoop<br><i>3=
+ years of experience. </i><i> Driving a continuous improvement culture base=
+d on detail knowledge of mobile application development.  Knowledge of OOP =
+and SOLID principles.  Experi...</i><br><br>142) <b><a href=3D"https://jobs=
+.ashbyhq.com/cargo-one/76235aad-6aa3-4779-95dc-d810ad1f4126"}">Backend Engi=
+neer</a></b> (Remote (EMEA)), Cargo-one<br><i>3 years of experience. </i><i=
+> Experience, we recognize the unique expertise you contribute</i><br><br>1=
+43) <b><a href=3D"https://job-boards.greenhouse.io/themotleyfool/jobs/45223=
+65007"}">Contract Fullstack Python Developer - Billing/Payment Systems</a><=
+/b> (United States - Remote), Themotleyfool<br><i>5 years of experience. </=
+i><i>The Motley Fool is looking for a Contract Hands-On Software Engineer i=
+deally with a background in payment processing and billing systems (such as=
+ Stri...</i><br><br>144) <b><a href=3D"https://recruiting.paylocity.com/Rec=
+ruiting/Jobs/Details/2743554"}">UI (Frontend) Engineer</a></b> (Hybrid Remo=
+te Chennai OR Bangalore, IND), Cloudbees<br><i>5 years of experience. </i><=
+i>Experience across your entire software development lifecycle.  Experience=
+ in software engineering, with a significant focus on JavaScript, React, Ty=
+pe...</i><br><br>145) <b><a href=3D"https://jobs.lever.co/musixmatch/3c3594=
+db-8f01-462d-b187-da8bb4c8fcc8"}">Software Engineer, Backend</a></b> (Bolog=
+na or Remote (Italy)), Musixmatch S.p.a<br><i>3 years of experience. </i><i=
+> Experience and drive the expansion of our services.  Experience with rela=
+tional databases and key-value stores.  Experience working in (music) copyr=
+i...</i><br><br>146) <b><a href=3D"https://trellix.wd1.myworkdayjobs.com/En=
+terpriseCareers/job/Remote-United-States/Associate-Software-Development-Eng=
+ineer_JR0034444"}">Associate Software Development Engineer</a></b> (Remote =
+United States), Fireeye<br><i> Assist in the design, development, and imple=
+mentation of Salesforce solutions, including custom applications, workflows=
+, and integrations specificall...</i><br><br>147) <b><a href=3D"https://sca=
+ndinaviantech.teamtailor.com/jobs/5002361-sap-job-opportunities-in-pune"}">=
+SAP Job Opportunities in Pune</a></b> (Hybrid Remote, Pune, IN), Scandinavi=
+antech<br><i> SAP Project System (PS) (25% remote) Location: Chakan, Pune, =
+India Experience: Varying levels (from Intermediate to senior roles,5+ year=
+s) Availabili...</i><br><br><h2>Know anyone looking for a job?</h2>Please r=
+ecommend them to <a href=3D"https://click.pstmrk.it/3s/bloomberry.com%2Frem=
+ote-jobs%3Futm_source%3Drecommendation%26utm_campaign%3Dnewsletter_recommen=
+dation/sCzC/GCu4AQ/AQ/80662450-ef79-4cda-a1e4-44659fcf9928/1/MoCwAFGWfe">su=
+bscribe to a daily email here with the latest remote jobs found in the past=
+ 24 hours</a>.<br>They can choose from all sorts of roles, such as HR, Soft=
+ware Engineers, Product Managers, Sales, Customer Success, and more.<br>The=
+y'll greatly appreciate your help :) <br><br><a href=3D"https://click.pstmr=
+k.it/3s/api.bloomberry.com%2Femail%2Funsubscribe.html%3Frecipient_id%3Ddrvc=
+wxmbfv7738geuejzfvsx/sCzC/GCu4AQ/AQ/80662450-ef79-4cda-a1e4-44659fcf9928/2/=
+txPV7sdwjD">Unsubscribe</a><img src=3D"https://ea.pstmrk.it/open?m=3Dv3_1.8=
+O-qCd9BcgA5H7QVNL-4ZQ.X2SquIYhL6qEZ95lpU3PFgh5XFCKn0wul0Z525kjkfe4aThOK-Fu6=
+gXzIS31Avd6OTI1AkZY1MfZd_O9D5mg-uSblNS2XDcgHIUEww32OnCSx-U6Qam7GBxAD7tHwbM7=
+5FqVk7p1QdVClzF15yGPg-_-NDMUO6EpCPAWsO0fZpaZd6CysT8kj3k47Q2QX4or7D7uGuy9Qe6=
+krJQlj2rT1MwTzT8DRCpXoia8B8xRuLntysYra3RogYb5GbYlkMdjTud212u9Kf7Io2hNvV2DTy=
+Mqnwb56I6adjchNNGEucXP6ybM0bt-9YOyBdaWHpfXJurOPRjLKE-yf2Xfsum2RCn--UNnrMkH5=
+0GjawExUo3UoKuKpA5kZEapsM6sSdOVZrpJg48SE6TegmQ48fGfv7uZe8M3spPeh49onVJ7yzEc=
+Qkrmqh8PE9f72yUabrXVnBpwGR8onzVZnbk0qDuvLxSufehoTF-7MlS5JngYb7i2cgSYS94Z5tf=
+4cx1Zlho9ulXzjyWdpiWH-cZ3hYJ9kuLehYY50tOnUVWWt6eHK1s" width=3D"1" height=3D=
+"1" border=3D"0" alt=3D"" />=
