@@ -1,6 +1,6 @@
-9/22
+This is an example. Delete the following and paste your raw html source of your email here. It will be encoded quoted-printable and look like the sample below:
 
-Hi Cameron,<br><br>Here are the newest jobs posted in the past 24 hours tha=
+Hi you,<br><br>Here are the newest jobs posted in the past 24 hours tha=
 t other job seekers (except you) will miss. Jobs with salary ranges are sho=
 wn first<br><br>1) <b><a href=3D"https://boards.greenhouse.io/circle/jobs/7=
 639108002"}">Director, Data Engineering</a></b> (Salt Lake City - remote fi=

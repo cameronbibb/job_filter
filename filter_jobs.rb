@@ -2,11 +2,13 @@ require 'nokogiri'
 
 encoded_content = File.read('jobs.txt')
 
+# decode from quoted-printable encoding
 decoded_content = encoded_content.unpack("M").first.force_encoding(Encoding::ISO_8859_1).encode(Encoding::UTF_8)
+
 decoded_content = decoded_content.split('<br><br>').filter { |elem| elem =~ /^\d+\)/ }
 
 # filter out jobs with specific words: director, staff, manager, or principal
-filtered_jobs = decoded_content.filter {|job| job !~ /\b(director|staff|manager|principal)\b/i }
+filtered_jobs = decoded_content.filter {|job| job !~ /\b(director|staff|manager|principal|android|mobile)\b/i }
 
 # filter out jobs requiring 8 or more years of experience
 filtered_jobs = filtered_jobs.reject do |job|
@@ -20,6 +22,9 @@ filtered_jobs = filtered_jobs.reject do |job|
     false
   end
 end
+
+number_of_jobs = filtered_jobs.size
+filtered_jobs.unshift("<h1>Number of Jobs: #{number_of_jobs}</h1")
 
 jobs_string = filtered_jobs.join('<br><br>')
 
