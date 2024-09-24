@@ -1,32 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    date (3.3.4)
-    mail (2.8.1)
-      mini_mime (>= 0.1.1)
-      net-imap
-      net-pop
-      net-smtp
-    mini_mime (1.1.5)
-    net-imap (0.4.16)
-      date
-      net-protocol
-    net-pop (0.1.2)
-      net-protocol
-    net-protocol (0.2.2)
-      timeout
-    net-smtp (0.5.0)
-      net-protocol
     nokogiri (1.16.7-arm64-darwin)
       racc (~> 1.4)
     racc (1.8.1)
-    timeout (0.4.1)
 
 PLATFORMS
   arm64-darwin-23
 
 DEPENDENCIES
-  mail
   nokogiri
 
 BUNDLED WITH
