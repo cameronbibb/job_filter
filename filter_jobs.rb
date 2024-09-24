@@ -18,8 +18,6 @@ filtered_jobs = filtered_jobs.reject do |job|
   end
 end
 
-puts filtered_jobs.size
-
 jobs_string = filtered_jobs.join('<br><br>')
 
 html_doc = Nokogiri::HTML(jobs_string)
