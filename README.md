@@ -4,7 +4,7 @@ This script filters job listings from [Bloomberry](https://bloomberry.com/remote
 
 ## Features
 
-- Filters job listings with the titles "Director," "Staff," "Manager," or "Principal."
+- Filters out job listings with the titles "Director," "Staff," "Manager," or "Principal."
 - Excludes jobs that require 8 or more years of experience.
 - Outputs a filtered HTML file with the remaining job listings.
 
