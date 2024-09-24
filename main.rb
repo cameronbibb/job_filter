@@ -7,7 +7,10 @@ decoded_content = decoded_content.split('<br><br>').filter { |elem| elem =~ /^\d
 
 filtered_jobs = decoded_content.filter {|job| job !~ /\b(director|staff|manager|principal)\b/i }
 filtered_jobs = filtered_jobs.reject do |job|
-  if job =~ /\b(\d+)\s+years\s+of\s+experience\b/
+  if job =~ /\b(\d+)-(\d+)\s+years\s+of\s+experience\b/
+    lower_bound = $1.to_i
+    lower_bound >= 8
+  elsif job =~ /\b(\d+)\s+years\s+of\s+experience\b/
     years_of_experience = $1.to_i
     years_of_experience >= 8
   else
