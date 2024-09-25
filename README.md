@@ -68,8 +68,8 @@ This script filters job listings from [Bloomberry](https://bloomberry.com/remote
   /\b(director|staff|manager|principal)\b/i
   ```
 
-- Additionally, these keywords don't have to be limited to titles, as you can include other keywords in this expression you would like to filter out (e.g., 'cloud' or 'Java').
-- To change the filtering criteria for years of experience, adjust the conditions in the block that processes experience years:
+- Additionally, there is a filter for other keywords (e.g., 'cloud' or 'Java') and a filter for locations (e.g., 'europe', 'jamaica', etc.).
+- To change the filtering criteria for years of experience, adjust the number compared against `lower_bound` and `years_of_experience` in the block that processes experience years. The first filter here is used if there is a range in reference to years of experience, comparing against the lower bound of the range. The second, if there is only a single digit:
   ```ruby
   filtered_jobs = filtered_jobs.reject do |job|
     if job =~ /\b(\d+)-(\d+)\s+years\s+of\s+experience\b/   # regex matching range of years
