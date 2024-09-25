@@ -7,8 +7,14 @@ decoded_content = encoded_content.unpack("M").first.force_encoding(Encoding::ISO
 
 decoded_content = decoded_content.split('<br><br>').filter { |elem| elem =~ /^\d+\)/ }
 
-# filter out jobs with specific words: director, staff, manager, or principal
-filtered_jobs = decoded_content.filter {|job| job !~ /\b(director|staff|manager|principal|android|mobile)\b/i }
+# filter out jobs with specific titles: director, staff, manager, or principal
+filtered_jobs = decoded_content.filter {|job| job !~ /\b(director|staff|manager|principal|lead|head)\b/i }
+
+# filter out jobs with specific words
+filtered_jobs = filtered_jobs.filter {|job| job !~ /\b(android|mobile|machine learning|devops|salesforce|security|C#|.NET|C++|devsecops)\b/i }
+
+# filter out jobs with certain locations
+filtered_jobs = filtered_jobs.filter {|job| job !~ /\b(india|london|europe|jamaica|pakistan|germany|emea)\b/i }
 
 # filter out jobs requiring 8 or more years of experience
 filtered_jobs = filtered_jobs.reject do |job|
